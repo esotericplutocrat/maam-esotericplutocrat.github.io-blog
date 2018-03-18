@@ -1,0 +1,7 @@
+# Site settings
+title: Esoteric Plutocrat
+description: Unravel the mysticism of intuition
+keywords: Esoterism, intuition
+author: Rohit Naidu
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
